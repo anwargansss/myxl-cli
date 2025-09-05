@@ -33,3 +33,4 @@ pip install -r requirements.txt
 python main.py
 ```
 8. Input your API key when prompted
+
